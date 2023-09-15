@@ -1,0 +1,21 @@
+{
+  "name": "solidityprojectwork",
+  "version": "1.0.0",
+  "description": "My firt solidity project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Devoid",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "ganache": "^7.8.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.21",
+    "solc-js": "^1.0.1",
+    "truffle-hdwallet-provider": "^1.0.6",
+    "web3": "^4.1.1"
+  }
+}
